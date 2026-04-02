@@ -1,7 +1,7 @@
 # WebKBD
 
 
-## 📌 Deskripsi (Readme Tuh Dibaca Blok)
+## 📌 Deskripsi (PUNYA README TUH DI BACA BLOK)
 
 **WebComic KBD** adalah aplikasi web berbasis **Laravel + Tailwind CSS** untuk membaca dan mengelola komik dengan sistem role:
 
