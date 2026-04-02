@@ -90,7 +90,12 @@ php artisan breeze:install
 Pilih:
 
 ```
+Which Breeze stack would you like to install?
 blade
+Would you like dark mode support? (yes/no) [no]
+yes
+Which testing framework do you prefer?
+Pest
 ```
 
 ---
