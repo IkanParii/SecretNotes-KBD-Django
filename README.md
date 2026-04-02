@@ -294,4 +294,4 @@ Jika database error:
 
 ---
 
-# Punya Pahri (Minimal Baca Kids)
+# Punya Pahri (Minimal Baca Bang Capek Bikin Readme)
